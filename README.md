@@ -30,7 +30,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
 
-# add h1
+# add h2
 
 ### Example
 
