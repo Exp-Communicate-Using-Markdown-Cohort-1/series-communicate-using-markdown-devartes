@@ -18,7 +18,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 -->
 
 <details id=1 open>
-<summary><h2>Step 1: Add headers</h2></summary>
+<summary><h2>Step 1: Add headers!</h2></summary>
 
 _Welcome to "Communicate using Markdown"! :wave:_
 
